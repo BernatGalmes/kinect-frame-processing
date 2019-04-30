@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="BodyBasics.cpp" />
+    <ClCompile Include="C:\Users\berna\Dropbox\Master\CAP\PAC4\pac4_server\src\utils.c" />
+    <ClCompile Include="ProcessData.cpp" />
+    <ClCompile Include="BackgroundRemovalKinect.cpp" />
+    <ClCompile Include="KinectDrawer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BodyBasics.h" />
+    <ClInclude Include="C:\Users\berna\Dropbox\Master\CAP\PAC4\pac4_server\src\utils.h" />
+    <ClInclude Include="KinectDrawer.h" />
+    <ClInclude Include="ProcessData.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="BackgroundRemovalKinect.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BodyBasics.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="app.ico" />
+  </ItemGroup>
+</Project>
